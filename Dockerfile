@@ -1,3 +1,5 @@
+#EXERCICE 1
+
 FROM node:latest
 
 WORKDIR /app
